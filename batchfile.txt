@@ -1,0 +1,4 @@
+L;characters-mat.csv;Occupation;AT
+S;Agility;D;Y
+H;Stamina
+C;Strength;2
